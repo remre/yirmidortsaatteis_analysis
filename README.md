@@ -18,6 +18,13 @@ The primary objective of this project is to identify the factors contributing to
 1. The reasons behind candidates not attending their appointments.
 2. Potential strategies that companies can implement to encourage candidates to attend their appointments.
 
+## Technologies Used
+
+- pandas
+- numpy
+- seaborn
+- matplotlib
+
 ## How to Run the Project
 
 To run this project, follow these steps:
@@ -28,7 +35,7 @@ To run this project, follow these steps:
 
 pip install -r requirements.txt
 
-4. Activate the virtual environment suitable for your operating system found in the `yirmidort/Scripts/` directory.
+4. Activate the virtual environment suitable for your operating system found in the `<virtualenv>/Scripts/` directory.
 6. Run the `analysis_script.py` Python script to perform the analysis:
 
 python analysis_script.py
@@ -37,8 +44,8 @@ python analysis_script.py
 
 ## Contributing
 
-Contributions to this project are welcome. Please feel free to fork the repository, make changes, and submit a pull request. For major changes, please open an issue first to discuss what you would like to change.
+This project is not currently accepting contributions.
 
 ## License
 
-This project is open-source and available under the [MIT License](LICENSE.md).
+This project is not published under any license.
