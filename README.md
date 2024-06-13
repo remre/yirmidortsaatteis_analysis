@@ -29,7 +29,6 @@ To run this project, follow these steps:
 pip install -r requirements.txt
 
 4. Activate the virtual environment suitable for your operating system found in the `yirmidort/Scripts/` directory.
-5. Set up the environment variables by ensuring the `.env` file contains the correct path to the dataset.
 6. Run the `analysis_script.py` Python script to perform the analysis:
 
 python analysis_script.py
